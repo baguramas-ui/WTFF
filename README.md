@@ -7,16 +7,6 @@ It runs On https://www.onlinegdb.com/online_c_compiler#
 
 here is a sample of the gunz engine mode.
 
-=== BEST ACCURACY (closest to 237.5 ms repeat interval, native engine) ===
-(Lower score = interval dev. + 4.0 * jitter)
-  1.  199.98000 FPS    block= 247.509 ms   jitter=   0.23 ms   score=   10.9
-  2.  200.00000 FPS    block= 247.506 ms   jitter=   0.24 ms   score=   10.9
-  3.  200.00001 FPS    block= 247.506 ms   jitter=   0.24 ms   score=   10.9
-  4.  250.00000 FPS    block= 248.000 ms   jitter=   0.24 ms   score=   11.4
-  5.  249.99999 FPS    block= 248.000 ms   jitter=   0.24 ms   score=   11.4
-  6.  333.33333 FPS    block= 250.286 ms   jitter=   0.21 ms   score=   13.6
-  7.  198.99999 FPS    block= 247.748 ms   jitter=   0.90 ms   score=   13.8
-  8.  201.00000 FPS    block= 247.500 ms   jitter=   1.12 ms   score=   14.5
 
 Note, it's meant to show the stable framerate aroud your own target range, 
 you CHOOSE the range then pick a fps proposed by the tool that is close and stable. 
