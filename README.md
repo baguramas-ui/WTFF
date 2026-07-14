@@ -6,6 +6,7 @@ It was created to get an architecture adapted to the analysis of the realspace 2
 It runs On https://www.onlinegdb.com/online_c_compiler#
 
 here is a sample of the gunz engine mode.
+
 === BEST ACCURACY (closest to 237.5 ms repeat interval, native engine) ===
 (Lower score = interval dev. + 4.0 * jitter)
   1.  199.98000 FPS    block= 247.509 ms   jitter=   0.23 ms   score=   10.9
@@ -20,13 +21,14 @@ here is a sample of the gunz engine mode.
 
 And here is a sample of the IEEE float  analysis. Note, it's meant to show the stable framerate aroud your own target range, 
 you CHOOSE the range then pick a fps proposed by the tool that is close and stable. Dont use the first value simply because it's higher in ranking.
+
+
 === SWEET SPOT (best decimal, target 256 ±200 FPS, direction both) ===
 (Lower sweet score is better; higher FPS always reduces latency)
   1.  103.54132 FPS    avg=        +2.501740e-12  stddev=         3.120476e-10  avg_abs=         2.461890e-10  sweet=        +5.780056e-08
   2.  371.75871 FPS    avg=        +5.259249e-13  stddev=         8.896143e-11  avg_abs=         7.279645e-11  sweet=        +6.013490e-08
   3.  362.19426 FPS    avg=        +1.565366e-12  stddev=         9.255920e-11  avg_abs=         7.560908e-11  sweet=        +6.090959e-08
   4.  361.88379 FPS    avg=        +2.068471e-12  stddev=         9.267401e-11  avg_abs=         7.571160e-11  sweet=        +6.093602e-08
-
 
 
 
