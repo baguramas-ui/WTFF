@@ -18,8 +18,10 @@ here is a sample of the gunz engine mode.
   7.  198.99999 FPS    block= 247.748 ms   jitter=   0.90 ms   score=   13.8
   8.  201.00000 FPS    block= 247.500 ms   jitter=   1.12 ms   score=   14.5
 
-And here is a sample of the IEEE float  analysis. Note, it's meant to show the stable framerate aroud your own target range, 
-you CHOOSE the range then pick a fps proposed by the tool that is close and stable. Dont use the first value simply because it's higher in ranking.
+And here is a sample of the IEEE float  analysis. 
+Note, it's meant to show the stable framerate aroud your own target range, 
+you CHOOSE the range then pick a fps proposed by the tool that is close and stable. 
+Dont use the first value simply because it's higher in ranking.
 
 === SWEET SPOT (best decimal, target 256 ±200 FPS, direction both) ===
 (Lower sweet score is better; higher FPS always reduces latency)
