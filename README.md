@@ -15,6 +15,7 @@ Dont use the first value simply because it's higher in ranking.
 
 
 here is a sample of the IEEE 754 float mode
+
 === EXTREME + STABLE DOWN (best decimal per integer, filtered by target) ===
   1.  181.10323 FPS    avg=        -2.015704e-11  stddev=         2.002312e-10
   2.  180.93543 FPS    avg=        -1.992100e-11  stddev=         2.003844e-10
@@ -22,6 +23,7 @@ here is a sample of the IEEE 754 float mode
   4.  362.10646 FPS    avg=        -1.819676e-11  stddev=         1.042515e-10
 
 and here is a sample of the gunz mode.
+
 === BEST ACCURACY (closest to 237.5 ms repeat interval, native engine) ===
 (Lower score = interval dev. + 4.0 * jitter)
   1.  199.98000 FPS    block= 247.509 ms   jitter=   0.23 ms   score=   10.9
