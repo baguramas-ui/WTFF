@@ -25,10 +25,10 @@ Dont use the first value simply because it's higher in ranking.
 
 === SWEET SPOT (best decimal, target 256 ±200 FPS, direction both) ===
 (Lower sweet score is better; higher FPS always reduces latency)
-  1.  103.54132 FPS    avg=        +2.501740e-12  stddev=         3.120476e-10  avg_abs=         2.461890e-10  sweet=        +5.780056e-08
-  2.  371.75871 FPS    avg=        +5.259249e-13  stddev=         8.896143e-11  avg_abs=         7.279645e-11  sweet=        +6.013490e-08
-  3.  362.19426 FPS    avg=        +1.565366e-12  stddev=         9.255920e-11  avg_abs=         7.560908e-11  sweet=        +6.090959e-08
-  4.  361.88379 FPS    avg=        +2.068471e-12  stddev=         9.267401e-11  avg_abs=         7.571160e-11  sweet=        +6.093602e-08
+  1.  103.54132 FPS    avg=   +2.501740e-12  stddev=    3.120476e-10  avg_abs=    2.461890e-10  sweet=   +5.780056e-08
+  2.  371.75871 FPS    avg=   +5.259249e-13  stddev=    8.896143e-11  avg_abs=    7.279645e-11  sweet=   +6.013490e-08
+  3.  362.19426 FPS    avg=   +1.565366e-12  stddev=    9.255920e-11  avg_abs=    7.560908e-11  sweet=   +6.090959e-08
+  4.  361.88379 FPS    avg=   +2.068471e-12  stddev=    9.267401e-11  avg_abs=    7.571160e-11  sweet=   +6.093602e-08
 
 // ======================================================================
 //   WTFF — Windowed Timing Frame Finder 0.5.1
