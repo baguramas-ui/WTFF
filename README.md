@@ -8,7 +8,7 @@ By Grimnismal & a bit of AI, vibe coded.
 Here are the good values.
 
 
- What It Actually Finds
+ What It Actually Finds:
 
 GunZ runs on the RealSpace2 engine, which uses timeGetTime() for all timing. That timer has 1 ms resolution, so the game never sees fractional milliseconds.
 The engine’s animation speed is driven by a constant m_fSpeed = 4.8 – every frame, the animation counter advances by floor( delta_ms × 4.8 ).
