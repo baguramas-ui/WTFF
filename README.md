@@ -8,6 +8,7 @@
  other — unless you pick a good value.
 Here are the good values.
 
+You dont need the tool itself if you only want the values for common gameplay. The lists at the bottom should cover most situations.
 
  What It Actually Finds:
 
@@ -56,7 +57,7 @@ That may sound tiny, but it applies to every animation in the game – dash, sla
     Even a 5 ms shift changes the feel of combos and the frame‑perfect windows for cancels.
 
 The tool lets you deliberately pick FPS values that speed up or slow down specific actions to match your playstyle.
-Reading the Numbers
+Reading the Numbers. 
 
 FASTEST BLOCK / SLOWEST BLOCK
 These are the extremes of total block time. Use them to gain speed or to extend animation duration for tactical advantage.
