@@ -1,5 +1,6 @@
- WTFF — Windowed Timing Frame Finder 0.3.0
-By Grimnismal & a bit of AI, vibe coded.
+ WTFF — Windowed Timing Frame Finder 0.6.2
+ 
+ By Grimnismal & a bit of AI, vibe coded.
  This tool measures IEEE‑754 rounding error in 32‑bit float vs. 64‑bit double
  and how that error affects FPS timing.
  It has also a native mode for gunz the duel which has broken timers.
