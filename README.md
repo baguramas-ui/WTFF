@@ -1,3 +1,8 @@
+The tool runs on 
+
+https://www.onlinegdb.com/online_c_compiler
+
+ 
  WTFF — Windowed Timing Frame Finder 0.6.2
  
  By Grimnismal & a bit of AI, vibe coded.
